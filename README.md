@@ -80,3 +80,11 @@ Division dominates financial reasoning:
 ---
 
 ## Project Structure
+
+```
+-finqa-analysis/
+├── analysis.ipynb       # Jupyter notebook with full analysis
+├── metric_cards.png     # Dashboard summary image
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
+```
